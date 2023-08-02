@@ -459,28 +459,6 @@ Be sure to include the following information:
     and make a recommendation for the best area for a new store selling
     healthy foods.
 
-The **Introduction** section should state the research objective and the
-relevant spatial criteria for locating the new store.
-
-The **Data and Methods** section should state the data sets used in the
-analysis, from where those data were acquired, and the GIS operations
-employed. The maps illustrating the data sets used and a part of the
-methodology should be cited in the text here (e.g. Figure 1, 2, etc.)
-
-The **Results** section should state the results (i.e. a brief
-description of the areas that meet the criteria, the square footage of
-each, and your recommendation as to the best area for the store). The
-map of the potential area(s) for the store should be cited in the text
-here.
-
-The **Discussion** section should state an interpretation of the results
-(i.e. where in Philadelphia is the recommended area, what is
-advantageous about this particular location), limitations of the
-analysis, and how the analysis could be improved or expanded.
-
-The **Tables** **and Figures** section should contain the maps, each on
-a separate page with a caption. The maps should be cited in the text.
-
 ## Getting Started
 
 Make sure all layers and your map are in State Plane Pennsylvania
