@@ -39,7 +39,7 @@ layers:
     These are **corner stores** participating in the Food Trust’s
     Healthy Corner Store Initiative –
      CORNER STORES ARE NO LONGER ON PASDA 
-   [Please use this file] (https://tuprd-my.sharepoint.com/:u:/g/personal/tuf12267_temple_edu/EWAHadTr0TJKkauwIkddV9UBiaGNqd_0Ub_6r9bPL6JnAA?e=x23MMd)
+   [Please use this file](https://tuprd-my.sharepoint.com/:u:/g/personal/tuf12267_temple_edu/EWAHadTr0TJKkauwIkddV9UBiaGNqd_0Ub_6r9bPL6JnAA?e=x23MMd)
   - Philadelphia Health – Farmers Markets (2016)  
     These are **farmers markets**.
     FARMERS MARKETS ARE NO LONGER ON PASDA 
