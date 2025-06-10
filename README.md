@@ -41,6 +41,8 @@ layers:
     <http://thefoodtrust.org/what-we-do/corner-store>.
   - Philadelphia Health – Farmers Markets (2016)  
     These are **farmers markets**.
+    FARMERS MARKETS ARE NO LONGER ON PASDA 
+   [Please use this file](https://tuprd-my.sharepoint.com/:u:/g/personal/tuf12267_temple_edu/EWAHadTr0TJKkauwIkddV9UBiaGNqd_0Ub_6r9bPL6JnAA?e=Lq7mMf)
   - Philadelphia Empowerment Zones (2012)  
     These are **empowerment zones** – areas targeted by the City of
     Philadelphia for investment –
