@@ -43,13 +43,13 @@ layers:
   - Philadelphia Health – Farmers Markets (2016)  
     These are **farmers markets**.
     FARMERS MARKETS ARE NO LONGER ON PASDA 
-   [Please use this file](https://tuprd-my.sharepoint.com/:u:/g/personal/tuf12267_temple_edu/IQAdkpTVYmqoS6ArWPZXcfHwAVf-fWivsxLthcLFsa8yjok?e=Vkirx4)
+   [Please use this file](my.sharepoint.com/:u:/g/personal/tuf12267_temple_edu/IQAdkpTVYmqoS6ArWPZXcfHwAVf-fWivsxLthcLFsa8yjok?e=Vkirx4)
   - Philadelphia Empowerment Zones (2012)  
     These are **empowerment zones** – areas targeted by the City of
     Philadelphia for investment –
     <https://www.phila.gov/programs/empowerment-zones/>.
-    https://tuprd
-    [Please use this file](my.sharepoint.com/:u:/g/personal/tuf12267_temple_edu/IQDRMH9NEnjMRYs924_I7mSZAWX17GCeBBwEqXGrtSXJg2I?e=x7Wswe)
+   
+    [Please use this file](https://tuprd-my.sharepoint.com/:u:/g/personal/tuf12267_temple_edu/IQDRMH9NEnjMRYs924_I7mSZAWX17GCeBBwEqXGrtSXJg2I?e=x7Wswe)
   - 2015 Cartographic Boundary File, State-County-Census Tract for
     Pennsylvania, 1:500,000 (2015)  
     These are Pennsylvania **census tracts** – US Census Bureau
